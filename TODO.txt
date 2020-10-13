@@ -1,0 +1,27 @@
+// PSDs maken
+// Planning en "Taakverdeling" maken
+
+Inleveren:
+	// Voortgangsverslag
+	// De Applicatie - KLAS_teamTEAMNUMMER_MINPROJECTNUMMER.zip, Voorbeeld: C1A_team2_A3.zip
+	// Beschrijving van hoe de applicatie opgestart moet worden
+		README.txt
+	// Eindverslag
+		Zelfreflectie
+			welke taken heb ik uitgevoerd en tijdsschema
+		Peerfeedback
+		Applicatieworkflow
+			beschrijving van de workflow van de applicatie.
+				Mag in 1 of meerdere PSD's of diagram (Activity Diagram)
+	// Screencast houden
+
+Taken van de app:
+	// Lees foto in van kenteken
+	// Check database of the auto authorisatie verkrijgen mag
+	// Sla kenteken op in db met tijd zodat bij vertrek gemeten kan worden hoe lang de auto in de garage heeft gestaan
+	// Informatie dat een auto toegang heeft gepoogd te krijgen word OOK opgeslagen in een db. Dit moet gecodeerd worden.
+	// TKinter GUI maken
+
+Applicatiecode op sharepoint inleveren
+Eindverslag op sharepoint inleveren
+Screencarst via Sharepoint inleveren via Youtube Vimeo WeTransfer HU FileSender, etc

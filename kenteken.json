@@ -1,0 +1,57 @@
+{
+    "cilinderinhoud": 1149,
+    "massaleegvoertuig": 820,
+    "merk": "RENAULT",
+    "tweedekleur": "Niet geregistreerd",
+    "eerstekleur": "GEEL",
+    "co2uitstootgecombineerd": 166,
+    "g3installatie": "N.v.t.",
+    "aantalzitplaatsen": 4,
+    "vermogen": 43,
+    "vervaldatumapk": "2016-01-20T00:00:00+00:00",
+    "handelsbenaming-part2_suggest": {
+        "payload": {
+            "url": "matic"
+        },
+        "input": " matic",
+        "output": " matic"
+    },
+    "maximumtetrekkenmassageremd": 600,
+    "wamverzekerdgeregistreerd": "Ja",
+    "hoofdbrandstof": "Benzine",
+    "inrichting": "hatchback",
+    "toegestanemaximummassavoertuig": 1240,
+    "brandstofverbruikgecombineerd": "7.00",
+    "aantalcilinders": 4,
+    "datumeerstetoelating": "2000-01-18T00:00:00+00:00",
+    "massarijklaar": 920,
+    "datumeersteafgiftenederland": "2000-01-18T00:00:00+00:00",
+    "milieuclassificatie": "Euro 2",
+    "brandstofverbruikstad": "8.90",
+    "nevenbrandstof": "Niet geregistreerd",
+    "wachtopkeuren": "Nee",
+    "handelsbenaming-part1": "TWINGO",
+    "_links": {
+        "self": {
+            "href": "/api/voertuiggegevens/33-DT-GL/?ovio-api-key=2d178a0f29e3019212606961939ec8759b0baec42da7084663adcf6dc3e3e996"
+        }
+    },
+    "datumaanvangtenaamstelling": "2007-07-28T00:00:00+00:00",
+    "handelsbenaming-part1_url": "twingo",
+    "brandstofverbruikbuitenweg": "6.00",
+    "handelsbenaming-part2": " MATIC",
+    "voertuigsoort": "Personenauto",
+    "kenteken": "33-DT-GL",
+    "maximumtetrekkenmassaongeremd": 450,
+    "retrofitroetfilter": "Nee",
+    "handelsbenaming": "TWINGO; MATIC",
+    "handelsbenaming-part1_suggest": {
+        "payload": {
+            "url": "twingo"
+        },
+        "input": "twingo",
+        "output": "twingo"
+    },
+    "handelsbenaming-part2_url": "matic",
+    "bpm": 2574
+}

@@ -1,0 +1,1 @@
+Download `opencv_python-3.0.0-cp34-none-win_amd64.whl` and `opencv_python-3.0.0-cp34-none-win32.whl` and put them in this folder
