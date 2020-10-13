@@ -8,12 +8,12 @@ LangMiniProjectB1 is een programma voor een virtueele parkeergarage. Het program
 
 Install the following  packages via File > Settings > Project: PROJECTNAME > Project Interpreter (_press the green + on the right of the window_)
 
-	* Pillow (Python Image Library fork)
-	* Pillow-PIL (Pillow wrapper for PIL compatibility)
-	* PyTesseract (python wrapper for google's Tesseract-OCR)
-	* Matplotlib
-	* Requests
-	* Xmltodict
+ * Pillow (Python Image Library fork)
+ * Pillow-PIL (Pillow wrapper for PIL compatibility)
+ * PyTesseract (python wrapper for google's Tesseract-OCR)
+ * Matplotlib
+ * Requests
+ * Xmltodict
 	
 Also download and install the following libs:
 
